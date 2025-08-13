@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/features/lista-precios/components/precio-form/precio-form.component.scss"],
-  "sourcesContent": [".container {\r\n  font-family: Arial, sans-serif;\r\n  padding: 20px;\r\n}\r\n\r\n.card {\r\n  border-radius: 8px;\r\n  overflow: hidden;\r\n  \r\n  .card-header {\r\n    padding: 1rem;\r\n  }\r\n}\r\n\r\n.form-group {\r\n  margin-bottom: 1rem;\r\n  \r\n  label {\r\n    font-weight: 500;\r\n    margin-bottom: 0.5rem;\r\n  }\r\n}\r\n\r\n.input-group-text {\r\n  background-color: #f8f9fa;\r\n  font-weight: 500;\r\n}\r\n\r\n// .btn-success {\r\n//   &:hover {\r\n//     background-color: darken(#28a745, 10%);\r\n//   }\r\n// }\r\n\r\n/* Estilo para campos deshabilitados */\r\n.form-control:disabled {\r\n  background-color: #f8f9fa;\r\n  opacity: 1;\r\n  font-weight: 500;\r\n}\r\n\r\n\r\n/* Spinner para carga */\r\n.spinner-border {\r\n  vertical-align: middle;\r\n}"],
-  "mappings": ";AAAA,CAAA;AACE,eAAA,KAAA,EAAA;AACA,WAAA;;AAGF,CAAA;AACE,iBAAA;AACA,YAAA;;AAEA,CAJF,KAIE,CAAA;AACE,WAAA;;AAIJ,CAAA;AACE,iBAAA;;AAEA,CAHF,WAGE;AACE,eAAA;AACA,iBAAA;;AAIJ,CAAA;AACE,oBAAA;AACA,eAAA;;AAUF,CAAA,YAAA;AACE,oBAAA;AACA,WAAA;AACA,eAAA;;AAKF,CAAA;AACE,kBAAA;;",
-  "names": []
-}

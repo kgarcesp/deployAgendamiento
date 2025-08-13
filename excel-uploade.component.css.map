@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/features/lista-precios/components/excel-uploade/excel-uploade.component.scss"],
-  "sourcesContent": [".excel-uploader-container {\r\n  max-width: 1200px;\r\n  margin: 2rem auto;\r\n  padding: 0 1rem;\r\n\r\n  .upload-section {\r\n    padding: 1.5rem;\r\n    border: 2px dashed var(--surface-border);\r\n    border-radius: 8px;\r\n    background-color: var(--surface-ground);\r\n    \r\n    input[type=\"file\"] {\r\n      position: absolute;\r\n      width: 100%;\r\n      height: 100%;\r\n      opacity: 0;\r\n      top: 0;\r\n      left: 0;\r\n      cursor: pointer;\r\n    }\r\n  }\r\n\r\n  .loading-indicator {\r\n    padding: 1rem;\r\n    color: var(--primary-color);\r\n  }\r\n}\r\n"],
-  "mappings": ";AAAA,CAAA;AACE,aAAA;AACA,UAAA,KAAA;AACA,WAAA,EAAA;;AAEA,CALF,yBAKE,CAAA;AACE,WAAA;AACA,UAAA,IAAA,OAAA,IAAA;AACA,iBAAA;AACA,oBAAA,IAAA;;AAEA,CAXJ,yBAWI,CANF,eAME,KAAA,CAAA;AACE,YAAA;AACA,SAAA;AACA,UAAA;AACA,WAAA;AACA,OAAA;AACA,QAAA;AACA,UAAA;;AAIJ,CAtBF,yBAsBE,CAAA;AACE,WAAA;AACA,SAAA,IAAA;;",
-  "names": []
-}
